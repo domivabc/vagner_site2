@@ -1,0 +1,22 @@
+#welcome{
+  font-size: 48px;
+  color: rgb(88, 196, 234);
+  text-align: center;
+}
+
+#welcome2{
+  font-size: 36px;
+  color: rgb(88, 196, 234);
+  text-align: center;
+}
+.center {
+  margin: auto;
+  width: 50%;  
+  padding: 10px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
